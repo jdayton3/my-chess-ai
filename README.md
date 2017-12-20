@@ -12,7 +12,7 @@ I have been interested in deep RL, AI, and chess, and since there was no code pu
   - Initially reward for making valid moves
   - If time, reward for winning games, developing pieces, gaining material, and gaining space
 
-I used TensorFlow to define and run my neural network and the python-chess module to run the actual chess games.  My code is [available on GitHub]().
+I used TensorFlow to define and run my neural network and the python-chess module to run the actual chess games.  My code is [available on GitHub](https://github.com/jdayton3/my-chess-ai).
 
 ## Initial plan
 
